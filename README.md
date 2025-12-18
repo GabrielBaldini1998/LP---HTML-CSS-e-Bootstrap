@@ -32,13 +32,14 @@ Modal de Cases: Exibição de detalhes dos projetos em uma janela sobreposta (Po
 Formulário de Contato: Interface completa para captação de leads e informações de contato (Endereço, Telefone e Horários).
 
 ## 📁 Estrutura de Pastas
-/
+```/
 ├── css/
 │   ├── style.css        # Estilos personalizados do projeto
 │   └── bootstrap.css    # Arquivo local do framework Bootstrap
 ├── images/              # Imagens do projeto (Hero, Equipe, Cases)
 ├── index.html           # Arquivo principal do projeto
 └── README.md            # Documentação do projeto
+```
 
 ## ⚙️ Como executar o projeto
 Faça o download ou clone este repositório.
